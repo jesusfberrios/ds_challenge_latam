@@ -1,7 +1,5 @@
 # ds_challenge_latam
-# Data Scientist Challenge - LATAM Airlines
-## Jesús Berríos
-## Globant Data Scientist
+# Data Scientist Challenge - XX Airlines
 
 * En el notebook ***solution.ipynb*** se encuentran las respuestas a las preguntas del desafío
 * En la carpeta *input* se encuentra el dataset *dataset_SCL.csv*
